@@ -21,8 +21,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "deploy": "gh-pages -d build",
-    "predeploy": "npm run build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -42,5 +42,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://ledlaputa72.github.io/movie_app01"
+  "homepage": "https://ledlaputa72.github.io/movie_app01/"
 }
